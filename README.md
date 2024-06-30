@@ -7,4 +7,4 @@ Setting up Video Analysis Environment on Google Colab:
        save_frames: Frames extracted from videos will be saved in this folder.
 5. Violence Detection Implementation: Implement a script to process each frame extracted from the videos. Use a pre-trained model or custom algorithms to classify frames as depicting violence or non-violence.
 
-Collab Link: https://colab.research.google.com/drive/1ZwD5xHrbubKxBxWAEZBFFYGWAhYcJ21y?usp=sharing
+Google Colab Link: https://colab.research.google.com/drive/1ZwD5xHrbubKxBxWAEZBFFYGWAhYcJ21y?usp=sharing
